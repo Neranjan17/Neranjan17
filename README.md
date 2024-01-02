@@ -7,7 +7,7 @@
 
  <body>
   
-   <h1 style="color: red;">Hi</h1>
+   <h1 style="font-style: italic;">Hi</h1>
 
    <p>I'm a self-taught programming student who loves to learn new things. I watch YouTube tutorials and other online resources to improve my coding skills.</p>
    
