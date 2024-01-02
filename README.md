@@ -2,19 +2,7 @@
  <head>
     
    <style>
-
-     body {
-       
-     }   
-       
-     h1 {
-       
-     }
-
-     p {
-       
-     }
- 
+    
    </style>
   
  </head>
@@ -23,7 +11,7 @@
 
  <body>
   
-   <h1>Hi,</h1>
+   <h3>Hi,</h3>
    <p>I'm a self-taught programming student who loves to learn new things. I watch YouTube tutorials and other online resources to improve my coding skills.</p>
    
    <p>I enjoy programming in my free time and working on various projects. Some of the languages and technologies that I know are:</p>
@@ -31,6 +19,7 @@
    <ul>
      <li>Java</li>
      <li>C#</li>
+     <li>Android app development</li>
      <li>HTML and CSS</li>
      <li>MySQL</li>
      <li>Arduino</li>
