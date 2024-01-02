@@ -7,7 +7,8 @@
 
  <body>
   
-   <h3>Hi,</h3>
+   <h1 style="color: red;">Hi</h1>
+
    <p>I'm a self-taught programming student who loves to learn new things. I watch YouTube tutorials and other online resources to improve my coding skills.</p>
    
    <p>I enjoy programming in my free time and working on various projects. Some of the languages and technologies that I know are:</p>
