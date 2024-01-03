@@ -16,6 +16,7 @@
    <ul>
      <li>Java</li>
      <li>C#</li>
+     <li>Android app development</li>
      <li>HTML and CSS</li>
      <li>MySQL</li>
      <li>Arduino</li>
