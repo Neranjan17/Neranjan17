@@ -18,7 +18,7 @@
      <li>C#</li>
      <li>Android app development</li>
      <li>HTML and CSS</li>
-     <li>MySQL</li>
+     <li>SQL</li>
      <li>Arduino</li>
    </ul>
  
